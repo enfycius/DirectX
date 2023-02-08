@@ -1,4 +1,4 @@
-#include <windows.h>
+/* #include <windows.h>
 #include <DirectXMath.h>
 #include <DirectXPackedVector.h>
 
@@ -72,4 +72,4 @@ int main()
     cout << "angle = " << angleDegrees << endl;
 
     return 0;
-}
+} */
