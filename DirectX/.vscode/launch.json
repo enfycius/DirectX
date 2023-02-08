@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Vector",
+            "request": "attach",
+            "projectID": "6733b2ad-92f0-4eb6-8e28-b41c460a5f97"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Vector",
+            "request": "attach",
+            "projectID": "95ec2db6-9766-4c07-9310-7cb08635a393"
+        }
+    ]
+}
